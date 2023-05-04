@@ -13,7 +13,7 @@
 ## Web Scraping
 - [Requests](https://github.com/psf/requests) - You will need this for making any sort of HTTP or API requests. It should probably be the very first library you download
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Start here and use it with requests and lxml, it will do most of what you need
-- [lxml](https://lxml.de/](https://github.com/lxml/lxml) - lxml is absolutely necessary to use with beautiful soup to parse XML and HTML
+- [lxml](https://github.com/lxml/lxml) - lxml is absolutely necessary to use with beautiful soup to parse XML and HTML
 - [Scrapy](https://github.com/scrapy/scrapy) - Extremely powerful and customizable
 - [Selenium](https://github.com/SeleniumHQ/selenium) - Absolutely necessary if you need to scrape data from website that use JavaScript to present items on the website
 
