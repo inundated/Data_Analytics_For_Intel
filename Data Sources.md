@@ -1,3 +1,5 @@
+Here is a very thorough list of public APIs, mine is just some I find interesting / useful: https://github.com/public-api-lists/public-api-lists
+
 ## US Economy
 - [Federal Reserve Economic Data](https://fred.stlouisfed.org/docs/api/fred/) - Tons of economic data aggregated into one place. If you only want to sign up for and use one API for US economic data, use this one.
 - [Bureau of Labor Statistics](https://www.bls.gov/developers/home.htm) - Data on Inflation / Prices, Pay, Employment / Unemployment, and Productivity
